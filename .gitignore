@@ -1,0 +1,5 @@
+# Only outer .idea
+/.idea
+
+# Python
+__pycache__
