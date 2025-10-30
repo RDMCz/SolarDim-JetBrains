@@ -1,5 +1,7 @@
 # SolarDim color theme for JetBrains IDEs
 
+[← Back to parent repository](https://github.com/RDMCz/SolarDim)
+
 <img alt="solardim logo" src="./_markdown/images/solardim_capsule.png" height="125px" />
 
 * [What is this](#what-is-this)
@@ -25,10 +27,19 @@ Light|SolarDim|Solarized Light
 
 ## Installation
 
-* [JAR Extension file](https://github.com/RDMCz/SolarDim-JetBrains/releases)
+* [JAR Plugin file](https://github.com/RDMCz/SolarDim-JetBrains/releases)
 * JetBrains Marketplace __TBP__
 
 SolarDim is also available for [VS Code](https://github.com/RDMCz/SolarDim-VSCode).
+
+<br>
+
+To install JAR Plugins in JetBrains IDEs:
+
+1. Go to `File` → `Settings...` → `Plugins`
+2. In _Plugins window_, click the little cogwheel icon and select `Install Plugin from Disk...`
+3. Navigate to downloaded JAR file and click _Open_
+4. Click _Ok_ in _Plugins window_
 
 ## Legal
 

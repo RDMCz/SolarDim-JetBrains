@@ -3857,25 +3857,71 @@
                 <option name="EFFECT_TYPE" value="-1" />
             </value>
         </option>
+        <option name="org.rust.ATTRIBUTE">
+            <value>
+                <option name="FOREGROUND" value="27968D" />
+            </value>
+        </option>
+        <option name="org.rust.CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="871094" />
+            </value>
+        </option>
+        <option name="org.rust.CONST_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="871094" />
+            </value>
+        </option>
         <option name="org.rust.DOC_CODE">
             <value>
                 <option name="FOREGROUND" value="4F6169" />
             </value>
         </option>
+        <option name="org.rust.DOC_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="879493" />
+            </value>
+        </option>
         <option name="org.rust.DOC_HEADING">
             <value>
-                <option name="FOREGROUND" value="B04213" />
+                <option name="FOREGROUND" value="748502" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="org.rust.ENUM">
             <value>
-                <option name="FOREGROUND" value="237DBE" />
+                <option name="FOREGROUND" value="948800" />
+            </value>
+        </option>
+        <option name="org.rust.ENUM_VARIANT">
+            <value>
+                <option name="FOREGROUND" value="4F6169" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.FIELD">
+            <value>
+                <option name="FOREGROUND" value="27968D" />
             </value>
         </option>
         <option name="org.rust.FUNCTION">
             <value>
                 <option name="FOREGROUND" value="237DBE" />
+            </value>
+        </option>
+        <option name="org.rust.KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="676BC2" />
+            </value>
+        </option>
+        <option name="org.rust.KEYWORD_UNSAFE">
+            <value>
+                <option name="FOREGROUND" value="A04908" />
+            </value>
+        </option>
+        <option name="org.rust.MACRO">
+            <value>
+                <option name="FOREGROUND" value="B04213" />
             </value>
         </option>
         <option name="org.rust.METHOD">
@@ -3889,19 +3935,53 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
+        <option name="org.rust.MUT_SELF_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="4F6169" />
+                <option name="EFFECT_COLOR" value="909090" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="org.rust.SELF_EXPRESSION">
+            <value>
+                <option name="FOREGROUND" value="4F6169" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.SELF_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="4F6169" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.STATIC">
+            <value>
+                <option name="FOREGROUND" value="C52B75" />
+            </value>
+        </option>
+        <option name="org.rust.STRING">
+            <value>
+                <option name="FOREGROUND" value="748502" />
+            </value>
+        </option>
         <option name="org.rust.STRUCT">
             <value>
-                <option name="FOREGROUND" value="237DBE" />
+                <option name="FOREGROUND" value="948800" />
             </value>
         </option>
         <option name="org.rust.TRAIT">
             <value>
-                <option name="FOREGROUND" value="237DBE" />
+                <option name="FOREGROUND" value="948800" />
             </value>
         </option>
         <option name="org.rust.TYPE_ALIAS">
             <value>
-                <option name="FOREGROUND" value="237DBE" />
+                <option name="FOREGROUND" value="948800" />
+            </value>
+        </option>
+        <option name="org.rust.UNION">
+            <value>
+                <option name="FOREGROUND" value="948800" />
             </value>
         </option>
     </attributes>

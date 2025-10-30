@@ -28,6 +28,10 @@
     "FileColor_Violet": "#e8e4ee",
     "FileColor_Yellow": "#fbfbe5",
 
+    "Rust_Const": "#871094",
+    "Rust_Unsafe": "#A04908",
+    "Rust_Underline": "#909090",
+
     "misc_1": "#A8880A",
     "misc_2": "#307CC4",
     "misc_3": "#83906A",
