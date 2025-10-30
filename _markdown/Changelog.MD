@@ -4,6 +4,10 @@
 
 ## Changelog
 
+### 0.0.2
+
+* Rust review
+
 ### 0.0.1
 
 * Initial release

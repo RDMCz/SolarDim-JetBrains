@@ -14,7 +14,7 @@ My most-used JetBrains IDE these days is probably PyCharm, and I'm happy with ho
   * [ ] Full width infos/warnings (eg Python interpreter not set) are maybe too bright?
   * [ ] Make side panel different color like in VS Code?
 * [x] Python
-* [ ] Rust
+* [x] Rust
 * [ ] Go
 * [ ] JavaScript
 * [ ] ...
@@ -22,6 +22,7 @@ My most-used JetBrains IDE these days is probably PyCharm, and I'm happy with ho
 * [ ] JSON
 * [ ] XML, HTML
 * [ ] CSS
+* [ ] C++ & C# (I usually use Visual Studio 2022 for these)
 
 ## Known issues
 
