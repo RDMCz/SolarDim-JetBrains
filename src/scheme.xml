@@ -3942,6 +3942,11 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
+        <option name="org.rust.PRIMITIVE_TYPE">
+            <value>
+                <option name="FOREGROUND" value="{{blue}}" />
+            </value>
+        </option>
         <option name="org.rust.SELF_EXPRESSION">
             <value>
                 <option name="FOREGROUND" value="{{base_f_1}}" />
