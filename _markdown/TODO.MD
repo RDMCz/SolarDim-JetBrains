@@ -13,13 +13,13 @@ My most-used JetBrains IDE these days is probably PyCharm, and I'm happy with ho
   * [ ] Add border around error explaination pop-ups
   * [ ] Full width infos/warnings (eg Python interpreter not set) are maybe too bright?
   * [ ] Make side panel different color like in VS Code?
-* [x] Python (PyCharm)
-* [x] Rust (RustRover)
-* [x] C++ (CLion)
-* [x] Go (Goland)
-* [x] JavaScript (WebStorm)
-* [ ] Java (IntelliJ IDEA)
-* [ ] C# (Rider)
+* [x] Python&ensp;(PyCharm)
+* [x] Rust&ensp;(RustRover)
+* [x] C++&ensp;(CLion)
+* [x] Go&ensp;(Goland)
+* [x] JavaScript&ensp;(WebStorm)
+* [ ] Java&ensp;(IntelliJ IDEA)
+* [ ] C#&ensp;(Rider)
 * [ ] —————
 * [ ] Markdown
 * [ ] JSON

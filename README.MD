@@ -51,21 +51,21 @@ This project is also licensed under the [MIT license](./LICENSE).
 
 JetBrains provides a ["tutorial"](https://plugins.jetbrains.com/docs/intellij/themes-getting-started.html) on creating color themes, but it is not very comprehensive. Testing color theme via the _IDE Development Instance_ isn't working for me properly and same goes for the _Preview Theme_ feature. So, unfortunately, the only 100% functional method is to compile the color theme into a plugin and install it:
 
-* Edit values:
+* Edit values (in any text editor, requires Python):
   * Edit values in `./src/colors.json`, `./src/scheme.xml`, and `./src/SolarDim.theme.json` to your liking
   * Run `./src/build.py`
     * This script takes color definitions from `./src/colors.json` and inserts them into files `./src/scheme.xml` & `./src/SolarDim.theme.json`, which it then copies to actual color theme project `./SolarDim/*`
 
-* Create JAR:
+* Create JAR (requires IntelliJ IDEA):
   * Open `./SolarDim` in IntelliJ IDEA with [_Plugin DevKit_](https://plugins.jetbrains.com/plugin/22851-plugin-devkit) installed
   * Select `Build` → `Prepare Plugin Module 'SolarDim' For Deployment`
     * `SolarDim.jar` will be generated in `./SolarDim`
 
-* Install JAR:
+* Install JAR (in any JetBrains IDE):
   * Select `File` → `Settings...` → `Plugins`
   * In _Plugins window_, click the little cogwheel icon and select `Install Plugin from Disk...`
   * Choose `SolarDim.jar`
-  * Restart IntelliJ IDEA
+  * Restart your IDE
 
 ## Changelog, TODO, known issues
 
