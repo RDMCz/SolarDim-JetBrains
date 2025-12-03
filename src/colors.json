@@ -20,6 +20,8 @@
     "cyan": "#27968D",
     "green": "#748502",
 
+    "Constant_Alt": "#871094",
+    
     "FileColor_Blue": "#ebf4f9",
     "FileColor_Gray": "#f3f3f1",
     "FileColor_Green": "#eff7e7",
@@ -28,7 +30,6 @@
     "FileColor_Violet": "#e8e4ee",
     "FileColor_Yellow": "#fbfbe5",
 
-    "Rust_Const": "#871094",
     "Rust_Unsafe": "#A04908",
     "Rust_Underline": "#909090",
 

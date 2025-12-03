@@ -13,16 +13,19 @@ My most-used JetBrains IDE these days is probably PyCharm, and I'm happy with ho
   * [ ] Add border around error explaination pop-ups
   * [ ] Full width infos/warnings (eg Python interpreter not set) are maybe too bright?
   * [ ] Make side panel different color like in VS Code?
-* [x] Python
-* [x] Rust
-* [ ] Go
-* [ ] JavaScript
-* [ ] ...
+* [x] Python (PyCharm)
+* [x] Rust (RustRover)
+* [x] C++ (CLion)
+* [x] Go (Goland)
+* [x] JavaScript (WebStorm)
+* [ ] Java (IntelliJ IDEA)
+* [ ] C# (Rider)
+* [ ] —————
 * [ ] Markdown
 * [ ] JSON
 * [ ] XML, HTML
 * [ ] CSS
-* [ ] C++ & C# (I usually use Visual Studio 2022 for these)
+* [ ] —————
 
 ## Known issues
 
@@ -31,3 +34,5 @@ My most-used JetBrains IDE these days is probably PyCharm, and I'm happy with ho
 * There are some keywords, which seem to be explicitly set to some color value (not inherited), but they don't appear anywhere in `scheme.xml`... where do they come from? (eg `"org.rust.CRATE"` = `#835DDA`)
 
 * Boolean values cannot be styled independently in JetBrains IDEs :(
+
+* Gray text on gray background, eg when hitting Ctrl+F in _Editor → Color Scheme_ settings
