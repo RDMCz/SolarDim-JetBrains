@@ -184,8 +184,8 @@
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="E1DFD8" />
-                <option name="BACKGROUND" value="839496" />
+                <option name="FOREGROUND" value="000000" />
+                <option name="BACKGROUND" value="D2C58D" />
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
@@ -2294,7 +2294,7 @@
         </option>
         <option name="OC.STRUCT_FIELD">
             <value>
-                <option name="FOREGROUND" value="237DBE" />
+                <option name="FOREGROUND" value="00627A" />
                 <option name="EFFECT_TYPE" value="-1" />
             </value>
         </option>

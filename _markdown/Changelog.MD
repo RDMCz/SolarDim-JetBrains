@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 0.1.1
+
+* C++ struct field foreground color changed from blue to dark cyan
+* _ParameterInfo currentOverloadBackground_: fixed dark foreground on dark background
+
 ### 0.1.0
 
 * __C++__, __Go__, __JavaScript__ review

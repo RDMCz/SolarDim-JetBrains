@@ -299,7 +299,7 @@
         "ParameterInfo": {
             "background": "{{base_b_2}}",
             "borderColor": "{{base_b_1}}",
-            "currentOverloadBackground": "{{base_b_0}}",
+            "currentOverloadBackground": "{{base_b_3}}",
             "currentParameterForeground": "{{yellow}}",
             "disabledForeground": "{{base_b_0}}",
             "foreground": "{{base_f_1}}",

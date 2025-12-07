@@ -299,7 +299,7 @@
         "ParameterInfo": {
             "background": "#E1DFD8",
             "borderColor": "#879493",
-            "currentOverloadBackground": "#839496",
+            "currentOverloadBackground": "#F0EEE6",
             "currentParameterForeground": "#948800",
             "disabledForeground": "#839496",
             "foreground": "#4F6169",
