@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>SolarDim</id>
-    <version>0.1.1</version>
+    <version>0.2.0</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
@@ -22,7 +22,9 @@
         It is based around the color <code>#F0EEE6</code>: the <em>"Light grayish yellow"</em>.<br><br>Ready for:
         <ul>
             <li>C++</li>
+            <li>C#</li>
             <li>Go</li>
+            <li>Java</li>
             <li>JavaScript</li>
             <li>Python</li>
             <li>Rust</li>

@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 0.2.0
+
+* __C#__, __CSS__, __HTML/XML__, __JAVA__ review
+* Highlight color in context menu is not dark gray anymore (changed to gold)
+
 ### 0.1.1
 
 * C++ struct field foreground color changed from blue to dark cyan

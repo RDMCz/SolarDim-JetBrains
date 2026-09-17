@@ -21,10 +21,11 @@
     "green": "#748502",
 
     "gold0": "#D2C58D",
+    "red2": "#C53441",
 
     "Mysterious_Blue": "#00627A",
     "Constant_Alt": "#871094",
-    
+
     "FileColor_Blue": "#ebf4f9",
     "FileColor_Gray": "#f3f3f1",
     "FileColor_Green": "#eff7e7",
@@ -57,7 +58,6 @@
     "misc_19": "#C23E76",
     "misc_20": "#CE4339",
     "misc_21": "#A68A0A",
-    "misc_22": "#C7352E",
     "misc_23": "#DEDCD4",
     "misc_24": "#BF7F3B",
     "misc_25": "#A8891E",

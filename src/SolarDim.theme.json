@@ -17,7 +17,7 @@
             "inactiveBackground": "{{base_b_2}}",
             "inactiveForeground": "{{base_b_0}}",
             "infoForeground": "{{base_b_0}}",
-            "selectionBackground": "{{base_b_0}}",
+            "selectionBackground": "{{gold0}}",
             "selectionBackgroundInactive": "{{base_b_0}}",
             "selectionForeground": "{{base_f_2}}",
             "selectionInactiveBackground": "{{base_b_0}}",

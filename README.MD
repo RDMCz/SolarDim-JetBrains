@@ -49,7 +49,7 @@ This project is also licensed under the [MIT license](./LICENSE).
 
 ## Running locally
 
-JetBrains provides a ["tutorial"](https://plugins.jetbrains.com/docs/intellij/themes-getting-started.html) on creating color themes, but it is not very comprehensive. Testing color theme via the _IDE Development Instance_ isn't working for me properly and same goes for the _Preview Theme_ feature. So, unfortunately, the only 100% functional method is to compile the color theme into a plugin and install it:
+At the time of writing, JetBrains provides a [_tutorial_](https://plugins.jetbrains.com/docs/intellij/themes-getting-started.html) on creating color themes, but it is not very comprehensive. Testing color theme via the _IDE Development Instance_ isn't working for me properly and same goes for the _Preview Theme_ feature. So, unfortunately, the only 100% functional method to test local changes is to compile the color theme into a plugin and install it:
 
 * Edit values (in any text editor, requires Python):
   * Edit values in `./src/colors.json`, `./src/scheme.xml`, and `./src/SolarDim.theme.json` to your liking
