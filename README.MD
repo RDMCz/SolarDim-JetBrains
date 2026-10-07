@@ -7,7 +7,6 @@
 * [What is this](#what-is-this)
 * [Showcase](#showcase)
 * [Installation](#installation)
-* [Legal](#legal)
 * [Running locally](#running-locally)
 * [Changelog, TODO, known issues](#changelog-todo-known-issues)
 
@@ -17,22 +16,18 @@ SolarDim is an IDE color theme that aims to strike a balance between typical _li
 
 The pure white background of light color themes can be too straining on the eyes, while the colors of solarized light color themes can be too warm, especially if you use a software night screen filter or wear computer glasses. If you found out that you can navigate the code better when using a light theme, but the themes mentioned above are too white or yellow for you, you might want to give SolarDim a try.
 
-SolarDim initially started as a color theme for VS Code, which is a fork/edit of _vscode-better-solarized_ by _edheltzel_. This particular SolarDim port is a fork/edit of _solarized_ by _espositocode_. For more info see the [Legal section](#legal).
+This particular SolarDim port is a fork/edit of _solarized_ by _espositocode_. For more info see the [Legal section](./_markdown/Legal.MD).
 
 ## Showcase
 
 Light|SolarDim|Solarized Light
 ---|---|---
-![screenshot of default light jetbrains](./_markdown/images/showcase_light.png)|![screenshot of SolarDim jetbrains](./_markdown/images/showcase_solardim.png)|![screenshot of 3rd party solarized light jetbrains](./_markdown/images/showcase_solarized_light.png)
+![screenshot of default light jetbrains](https://raw.githubusercontent.com/RDMCz/SolarDim-JetBrains/refs/heads/main/_markdown/images/showcase_light.png)|![screenshot of SolarDim jetbrains](https://raw.githubusercontent.com/RDMCz/SolarDim-JetBrains/refs/heads/main/_markdown/images/showcase_solardim.png)|![screenshot of 3rd party solarized light jetbrains](https://raw.githubusercontent.com/RDMCz/SolarDim-JetBrains/refs/heads/main/_markdown/images/showcase_solarized_light.png)
 
 ## Installation
 
 * [JAR Plugin file](https://github.com/RDMCz/SolarDim-JetBrains/releases)
 * JetBrains Marketplace __TBP__
-
-SolarDim is also available for [VS Code](https://github.com/RDMCz/SolarDim-VSCode).
-
-<br>
 
 To install JAR Plugins in JetBrains IDEs:
 
@@ -41,11 +36,9 @@ To install JAR Plugins in JetBrains IDEs:
 3. Navigate to downloaded JAR file and click _Open_
 4. Click _Ok_ in _Plugins window_
 
-## Legal
+<br>
 
-SolarDim wouldn't be possible without _vscode-better-solarized_ by _edheltzel_, for more info, see the [Legal section of SolarDim for VS Code](https://github.com/RDMCz/SolarDim-VSCode?tab=readme-ov-file#legal). This project is a edit of [solarized](https://github.com/subtheme-dev/solarized) ([MIT](https://github.com/subtheme-dev/solarized/blob/master/LICENSE)) by [Jonathan Esposito (espositocode)](https://github.com/espositocode), who did a great job getting Solarized onto a platform where, in my opinion, the developer experience of creating color themes is not the best.
-
-This project is also licensed under the [MIT license](./LICENSE).
+SolarDim is also available for [VS Code](https://github.com/RDMCz/SolarDim-VSCode) and [Delphi](https://github.com/RDMCz/SolarDim-Delphi).
 
 ## Running locally
 
